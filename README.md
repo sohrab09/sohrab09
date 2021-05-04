@@ -8,20 +8,22 @@ My name is Sohrab and I'm a Full Stack web developer. I'm a hardworking, enthusi
 - 📫 Reach me: [Facebook](https://www.facebook.com/himel.mahmud.007/), [Email](mailto:sohrab.cse9@gmail.com/)
 - ⚡️ Fun fact: I'm a huge fan of **React Js**
 
-## Languages, Frameworks & Tools
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=628FDB)
-![](https://img.shields.io/badge/Editor-VS&nbsp;Code-informational?style=flat&logo=visual%20studio&logoColor=white&color=628FDB)
-![](https://img.shields.io/badge/Browser-Brave-informational?style=flat&logo=brave&logoColor=white&color=628FDB)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=628FDB)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=628FDB)
-![](https://img.shields.io/badge/Code-SASS-informational?style=flat&logo=sass&logoColor=white&color=628FDB)
-![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=628FDB)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=628FDB)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=628FDB)
-![](https://img.shields.io/badge/Shell-Git&nbsp;Bash-informational?style=flat&logo=git&logoColor=white&color=628FDB)
-![](https://img.shields.io/badge/Tool-Photoshop-informational?style=flat&logo=adobe%20photoshop&logoColor=white&color=628FDB)
-![](https://img.shields.io/badge/Tool-Illustrator-informational?style=flat&logo=adobe%20illustrator&logoColor=white&color=628FDB)
-![](https://img.shields.io/badge/Tool-Adobe&nbsp;XD-informational?style=flat&logo=adobe%20xd&logoColor=white&color=628FDB)
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Node.js" width="30px" src="https://www.ambientinfotech.com/wp-content/uploads/2020/03/node-js.png" />
+<img align="left" alt="MongoDB" width="30px" src="https://www.vippng.com/png/detail/66-663097_file-antu-mongodb-svg-svg-mongodb-logo-png.png" />
+<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="30px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/github-512.png" />
+
+<br />
+<br/>
+<br />
 
 ## Overview
 
