@@ -1,7 +1,7 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, Coders! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 My name is Sohrab and I'm a Full Stack web developer. I'm a hardworking, enthusiastic learner and I'm always looking for opportunities to learn new technologies. 
 ## BIO
-- ⚙️ I use daily: `.html`, `.css`, `.js`, `.svg`, `.psd`, `.ai`, `.xd`
+- ⚙️ I use daily: `.html`, `.css`, `.js`, `.svg`, `.psd`, `.ai`, `.xd`, `.react`
 - 🌍 I'm mostly active in **Facebook**
 - 🌱 I’m currently learning **Node Js**, **Mongo DB**
 - 💬 Ping me about **design**, **development** and **anime** :stuck_out_tongue_closed_eyes:
