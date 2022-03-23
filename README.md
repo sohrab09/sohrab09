@@ -1,10 +1,10 @@
 # Hello, Coders! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 My name is Sohrab and I'm a Full Stack web developer. I'm a smartworking, enthusiastic learner and I'm always looking for opportunities to learn new technologies. 
 ## BIO
-- ⚙️ I use daily: `.html`, `.css`, `.js`, `.svg`, `.psd`, `.ai`, `.xd`, `.react`
+- ⚙️ I use daily: `.html`, `.css`, `.js`, `.php`, `.node`, `.mongoDB`, `.Express Js`, `.React`
 - 🌍 I'm mostly active in **Facebook**
-- 🌱 I’m currently learning **Node Js**, **Mongo DB**
-- 💬 Ping me about **design**, **development** and **anime** :stuck_out_tongue_closed_eyes:
+- 🌱 I’m currently learning **Node Js**, **Mongo DB**, **Socket IO**, **Django**
+- 💬 Ping me about **development** :stuck_out_tongue_closed_eyes:
 - 📫 Reach me: [Facebook](https://www.facebook.com/himel.mahmud.07/), [Email](mailto:sohrab.cse9@gmail.com/)
 - ⚡️ Fun fact: I'm a huge fan of **React Js**
 
