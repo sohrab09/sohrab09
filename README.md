@@ -5,7 +5,7 @@ My name is Sohrab and I'm a Full Stack web developer. I'm a smartworking, enthus
 - 🌍 I'm mostly active in **Facebook**
 - 🌱 I’m currently learning **Node Js**, **Mongo DB**
 - 💬 Ping me about **design**, **development** and **anime** :stuck_out_tongue_closed_eyes:
-- 📫 Reach me: [Facebook](https://www.facebook.com/himel.mahmud.007/), [Email](mailto:sohrab.cse9@gmail.com/)
+- 📫 Reach me: [Facebook](https://www.facebook.com/himel.mahmud.07/), [Email](mailto:sohrab.cse9@gmail.com/)
 - ⚡️ Fun fact: I'm a huge fan of **React Js**
 
 ### Languages and Tools:
