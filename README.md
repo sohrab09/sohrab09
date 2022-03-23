@@ -20,6 +20,7 @@ My name is Sohrab and I'm a Full Stack web developer. I'm a smartworking, enthus
 <img align="left" alt="MongoDB" width="30px" src="https://www.vippng.com/png/detail/66-663097_file-antu-mongodb-svg-svg-mongodb-logo-png.png" />
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="30px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/github-512.png" />
+<img align="left" alt="Bitbucket" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/44_Bitbucket_logo_logos-512.png" />
 
 <br />
 <br/>
