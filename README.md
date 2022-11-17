@@ -1,5 +1,10 @@
 # Hello, Coders! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
-My name is Sohrab and I'm a Front-End web developer. I'm a smartworking, enthusiastic learner and I'm always looking for opportunities to learn new technologies. 
+I’m a professional front-end developer who has been working in the industry for over 1.6 years as
+an experienced web developer specializing in Front-End development (Mainly ReactJS). I deal with
+complex issues efficiently. I have a strong knowledge of Front-End Development and have proven
+interpersonal & communication skills. I am good at working in a team in a fast-paced environment.
+I am always trying to learn trending web technology. and I have a little bit of experience in React
+Native Applications. Last 1 year I was a junior developer Contact at Nassa Group. 
 ## BIO
 - ⚙️ I use daily: `.html`, `.css`, `.js`, `.php`, `.node`, `.mongoDB`, `.Express Js`, `.React`
 - 🌍 I'm mostly active in **Facebook**
