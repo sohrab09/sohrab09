@@ -1,5 +1,5 @@
 # Hello, Coders! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
-I’m a professional front-end developer who has been working in the industry for over 1.6 years as
+I’m a professional front-end developer who has been working in the industry for over 2 years as
 an experienced web developer specializing in Front-End development (Mainly ReactJS). I deal with
 complex issues efficiently. I have a strong knowledge of Front-End Development and have proven
 interpersonal & communication skills. I am good at working in a team in a fast-paced environment.
