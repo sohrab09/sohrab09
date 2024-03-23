@@ -1,10 +1,5 @@
-# Hello, Coders! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
-I’m a professional front-end developer who has been working in the industry for over 2 years as
-an experienced web developer specializing in Front-End development (Mainly ReactJS). I deal with
-complex issues efficiently. I have a strong knowledge of Front-End Development and have proven
-interpersonal & communication skills. I am good at working in a team in a fast-paced environment.
-I am always trying to learn trending web technology. and I have a little bit of experience in React
-Native Applications. Last 1 year I was a junior developer Contact at Nassa Group. 
+# Greetings, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+I am a seasoned front-end developer with over three years of industry experience, focusing primarily on web application development, particularly in ReactJS. Proficient in resolving intricate challenges effectively, I possess a robust understanding of front-end development coupled with adept interpersonal and communication abilities. Skilled in collaborative teamwork within dynamic settings, I am committed to staying abreast of emerging web technologies. Additionally, I have garnered some exposure to React Native applications. In my most recent role, I served as a junior developer at ADN Telecom over the past year. 
 ## BIO
 - ⚙️ I use daily: `.html`, `.css`, `.js`, `.php`, `.node`, `.mongoDB`, `.Express Js`, `.React`
 - 🌍 I'm mostly active in **Facebook**
