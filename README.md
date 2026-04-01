@@ -1,33 +1,77 @@
-# Greetings, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
-I am a seasoned front-end developer with over three years of industry experience, focusing primarily on web application development, particularly in ReactJS. Proficient in resolving intricate challenges effectively, I possess a robust understanding of front-end development coupled with adept interpersonal and communication abilities. Skilled in collaborative teamwork within dynamic settings, I am committed to staying abreast of emerging web technologies. Additionally, I have garnered some exposure to React Native applications. In my most recent role, I served as a junior developer at ADN Telecom over the past year. 
-## BIO
-- ⚙️ I use daily: `.html`, `.css`, `.js`, `.php`, `.node`, `.mongoDB`, `.Express Js`, `.React`
-- 🌍 I'm mostly active in **Facebook**
-- 🌱 I’m currently learning **Node Js**, **Mongo DB**, **Socket IO**, **Django**
-- 💬 Ping me about **development** :stuck_out_tongue_closed_eyes:
-- 📫 Reach me: [Facebook](https://www.facebook.com/sohrab09/), [Email](mailto:sohrab.cse9@gmail.com/)
-- ⚡️ Fun fact: I'm a huge fan of **React Js**
+# Hey there 👋
 
-### Languages and Tools:
+I’m a **Full-Stack & Mobile Application Developer** with strong experience in building scalable, high-performance applications across web and mobile platforms.
 
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="30px" src="https://www.ambientinfotech.com/wp-content/uploads/2020/03/node-js.png" />
-<img align="left" alt="MongoDB" width="30px" src="https://www.vippng.com/png/detail/66-663097_file-antu-mongodb-svg-svg-mongodb-logo-png.png" />
-<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="30px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/github-512.png" />
-<img align="left" alt="Bitbucket" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/44_Bitbucket_logo_logos-512.png" />
+I specialize in **Golang and Node.js backend development**, along with the **React ecosystem** and **cross-platform mobile apps (React Native & Flutter)**. I enjoy solving real-world problems, designing efficient systems, and continuously improving performance and scalability.
 
-<br />
-<br/>
-<br />
+---
 
-## Overview
+## 🚀 About Me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohrab09&layout=compact&theme=tokyonight)](https://github.com/sohrab09/github-readme-stats)
+- 💼 Full-Stack Developer with real-world production experience  
+- 📱 Mobile App Developer (React Native & Flutter)  
+- ⚙️ Backend-focused with **Golang & Node.js (REST API, scaling, performance optimization)**  
+- 🧠 Strong understanding of **system design & architecture**  
+- 🛠️ Comfortable working across the entire development lifecycle  
+- 🔥 Always learning and exploring better engineering practices  
 
-[![Sohrab's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohrab09&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/sohrab09/github-readme-stats)
+---
+
+## 🧰 Tech Stack
+
+### 💻 Frontend
+- React.js
+- JavaScript (ES6+)
+- HTML5, CSS3
+
+### 📱 Mobile
+- React Native
+- Flutter
+
+### 🧠 State Management
+- Redux
+- Zustand
+- Context API
+
+### ⚙️ Backend
+- Golang (High-performance services, scalable APIs)
+- Node.js (Express, REST APIs, real-time systems)
+
+### 🗄️ Database
+- MongoDB
+- PostgreSQL
+- MySQL
+
+### ⚡ DevOps & Tools
+- Docker
+- CI/CD Pipelines
+- Git & GitHub
+
+---
+
+## 🧩 What I Do
+
+- Build **scalable backend systems** using Golang & Node.js  
+- Develop **cross-platform mobile apps** with smooth performance  
+- Design **clean and maintainable frontend architectures**  
+- Optimize APIs for **speed, reliability, and scalability**  
+- Work with databases efficiently (SQL & NoSQL)  
+- Handle **deployment, containerization, and automation**  
+
+---
+
+## 📫 Contact
+
+- 📧 Email: sohrab.cse9@gmail.com  
+- 🌐 Facebook: https://www.facebook.com/sohrab09
+
+---
+
+## ⚡ Quick Note
+
+I focus on writing **clean, scalable, and production-ready code**.  
+Not just building features — I care about **performance, maintainability, and real-world impact**.
+
+---
+
+⭐ If you like my work, feel free to explore my repositories!
